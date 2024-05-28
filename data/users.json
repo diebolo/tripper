@@ -1,0 +1,39 @@
+{
+    "test_user": {
+        "telegram_id": "test_user",
+        "home": {
+            "coordinates": [
+                52.08944030000001,
+                5.1099869
+            ],
+            "address": "Dirk Sonoystraat, Amsterdam"
+        },
+        "max_bicycling_distance": 10000,
+        "max_walking_distance": 5000,
+        "creds": "redacted"
+    },
+    "52178125": {
+        "telegram_id": "redacted",
+        "creds": "redacted",
+        "home": {
+            "coordinates": [
+                52.08944030000001,
+                5.1099869
+            ],
+            "address": "Utrecht Centraal, 3511 ER Utrecht, Netherlands"
+        },
+        "max_bicycling_distance": 10000,
+        "max_walking_distance": 5000
+    },
+    "4197602": {
+        "telegram_id": "redacted",
+        "creds": "redacted",
+        "home": {
+            "coordinates": [
+                52.00039049999999,
+                4.3768087
+            ],
+            "address": "Stieltjesweg 231, 2628 CK Delft, Netherlands"
+        }
+    }
+}
